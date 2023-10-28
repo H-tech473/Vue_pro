@@ -122,7 +122,7 @@
     </div>
     <div class="picture position-absolute d-flex flex-column justify-content-evenly align-items-stretch" style="top:500%">
       <div class="Testimonyhead d-flex align-items-center justify-content-center text-capitalize" style="overflow: hidden;">TESTIMONIALS</div>
-      <div class="Testimonies position-relative d-flex align-items-stretch flex-row justify-content-evenly position-relative bg-secondary px-4 py-5 gap-4">
+      <div class="Testimonies position-relative d-flex align-items-stretch flex-row justify-content-evenly position-relative px-4 py-5 gap-4">
           <div class="test1 position-relative bg-primary flex-grow-1">
             <div class="name position-absolute text-light text-wrap d-flex align-items-center h-100 w-100 justify-content-center text-center fs-2 fw-normal p-2">{{ info[0].name }}</div>
             <div class="info position-absolute text-light text-wrap d-flex align-items-center text-center fs-5 fw-normal p-2">{{ info[0].message }}</div>
