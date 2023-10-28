@@ -57,7 +57,7 @@
   </div>
   <div class="flex-grow-1 position-relative" style="overflow-y: auto; overflow-x: hidden;">
     <button type="button" class="position-fixed btn btn-light" style="z-index: 999; transform: rotateZ(-90deg) translateY(39%); top: 30%; right: 0%;">FEEDBACK</button>
-    <form type="button" class="position-absolute d-none input-group p-3 bg-light" action="/" style="z-index: 999; width: 30%; right: 0%;top: 0%">
+    <form type="button" class="position-fixed d-none input-group p-3 bg-light" action="/" style="z-index: 999; width: 30%; right: 2%;top: 14%">
       <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Enter Text">
       <button type="button" class="btn btn-warning">Search</button>
     </form>

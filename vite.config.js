@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueJsx()
   ],
-  base: '/Vue_pro/',
+  base: '/Vue_pro/dist/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
